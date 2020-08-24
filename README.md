@@ -3,7 +3,7 @@
 ### DJ Olson
 
 ## R Scripts 
-[Challenge 1] (https://github.com/DJ-Olson/data100/blob/master/R_Script_1.md)
+[Challenge 1](https://github.com/DJ-Olson/data100/blob/master/R_Script_1.md) (Aug. 08)
 
 ## Informal responses
 
