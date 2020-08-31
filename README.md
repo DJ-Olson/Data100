@@ -9,4 +9,4 @@ Hi guys! I'm DJ, I'm a sophmore at W&M studying finance and economics. I took th
  
 2. [Challenge 1](https://dj-olson.github.io/Data100/R_Challenge_Plot1) (Aug. 24) 
 
-3. [Lab 1](https://dj-olson.github.io/Data100/R_Challenge_Lab1) (Aug. 30)
+3. [Lab 1](https://dj-olson.github.io/Data100/Lab1) (Aug. 30)
