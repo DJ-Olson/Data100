@@ -20,7 +20,7 @@
 
 ## Bar Graph 4 Shows: Population density of each county (Source Data)
 
-
+![Screen Shot 2020-08-31 at 9 53 06 AM](https://user-images.githubusercontent.com/60228369/91727579-e55a0280-eb6f-11ea-8a30-00c217814757.png)
 
 
 
