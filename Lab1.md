@@ -3,7 +3,7 @@ Lab 1 looked at datasets from counties in Liberia. It used two datasets, one bei
 
 ## Below are the Graphs for Lab 1:
 
-### Bar Graph 1 Shows:Total Population of each County (Source Data
+### Bar Graph 1 Shows:Total Population of each County (Source Data)
 
 ![Screen Shot 2020-08-31 at 9 41 32 AM](https://user-images.githubusercontent.com/60228369/91727111-2f8eb400-eb6f-11ea-967c-254c5975860f.png)
 
@@ -27,4 +27,4 @@ Lab 1 looked at datasets from counties in Liberia. It used two datasets, one bei
 
 
 
-### Bar Graph 5 Shows:
+### Bar Graph 5 Shows: Total Population of each County, including indication of male and female counts (Source Data)
