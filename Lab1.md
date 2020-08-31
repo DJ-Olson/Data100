@@ -14,6 +14,10 @@
 
 ## Bar Graph 3 Shows: Difference in percent female between source and remote population datasets
 
+![Screen Shot 2020-08-31 at 9 51 45 AM](https://user-images.githubusercontent.com/60228369/91727384-a5931b00-eb6f-11ea-8da2-b5133526a073.png)
+
+
+
 ## Bar Graph 4 Shows: Population density of each county
 
 ## Bar Graph 5 Shows:
