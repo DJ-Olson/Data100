@@ -28,3 +28,5 @@ Lab 1 looked at datasets from counties in Liberia. It used two datasets, one bei
 
 
 ### Bar Graph 5 Shows: Total Population of each County, including indication of male and female counts (Source Data)
+
+![Screen Shot 2020-08-31 at 10 04 58 AM](https://user-images.githubusercontent.com/60228369/91728738-85645b80-eb71-11ea-8647-103a848a66ca.png)
