@@ -12,3 +12,5 @@ Hi guys! I'm DJ, I'm a sophmore at W&M studying finance and economics. I took th
 3. [Lab 1](https://dj-olson.github.io/Data100/Lab1) (Aug. 30)
 
 4. [Lab 1b](https://dj-olson.github.io/Data100/Lab1b) (Sept. 2)
+
+5. [Data Reflection 1](https://dj-olson.github.io/Data100/data_reflection) (Sept. 10)
