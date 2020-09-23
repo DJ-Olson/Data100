@@ -1,4 +1,5 @@
 # Lab 2b Population Growth Graphs
+(Data for this lab was taken from the United States Census Bureau between the years of 2010 and 2014)
 
 ### The graphs below show absolute population increase in the 50 states, The District of Columbia, and Puerto Rico.
 
