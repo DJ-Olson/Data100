@@ -1,4 +1,4 @@
-##Data Science Reflection 2
+# Data Science Reflection 2
 
 
 Every year tens of billions of dollars is spent on sports gambling worldwide. However, there is a saying in gambling that “the house always wins”, meaning that for the most part, casinos and the Vegas oddsmakers earn more money than they payout. An example of this is the often used 10 to win 9 odds. Oddsmakers will often set wagers where you can bet $10 and if you win the bet you win $9. So, even if the two teams are equally skilled, and it seems like nobody has an advantage, the house will still win more money than it loses in the long run. Still, this does not stop tens of millions of Americans and people worldwide from trying betting on sports every day. But, what if there was a way to use data science that eliminated the chance aspect of sports betting, and could in some way give you a statistical advantage? Wouldn’t that make sports betting a worthwhile endeavor? 
@@ -18,7 +18,7 @@ in order to bet more.”
 In closing, being successful in sports betting is not about being able to predict the sports games correctly but instead identify when oddsmakers have made errors placing the odds in your favor. Machine learning in sports betting is best utilized in order to identify statistical errors, rather than predict the outcomes of games. 
 
 
-##Bibliography:
+## Bibliography:
 1) Bunker, Rory P., and Fadi Thabtah. “A Machine Learning Framework for Sport Result Prediction.” Applied Computing and Informatics. No longer published by Elsevier, September 19, 2017. https://www.sciencedirect.com/science/article/pii/S2210832717301485. 
 
 2) Bartles, Richard. “Beating the Bookies with Machine Learning.” KDnuggets. Accessed October 1, 2020. https://www.kdnuggets.com/2019/03/beating-bookies-machine-learning.html.
