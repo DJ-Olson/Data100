@@ -5,3 +5,5 @@ This graphs below show correlation matrixes that describe the relationship betwe
 ![Screen Shot 2020-10-04 at 7 20 36 PM](https://user-images.githubusercontent.com/60228369/95031420-ec4ec600-0683-11eb-9202-e4839961ec5d.png)
 
 This second image summarizes the model numerically.
+
+![Screen Shot 2020-10-04 at 7 22 03 PM](https://user-images.githubusercontent.com/60228369/95031525-6b43fe80-0684-11eb-861c-e2cef9d9b879.png)
