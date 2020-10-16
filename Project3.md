@@ -6,7 +6,7 @@ The graph above shows the country of Costa Rica. Costa Rica is divided into 7 pr
 Data for this graph was obtained from shape files on the GADM website. 
 
 ## Project 3 Stretch Goal 2
-![plot2](https://user-images.githubusercontent.com/60228369/96278904-11a4d380-0fa4-11eb-90d8-89b1900ebf7a.png)
+![Screen Shot 2020-10-13 at 11 39 40 PM](https://user-images.githubusercontent.com/60228369/96280078-87f60580-0fa5-11eb-8570-45a47e8baf12.png)
 ![plot3](https://user-images.githubusercontent.com/60228369/96278907-11a4d380-0fa4-11eb-805c-dcdcf5fa87e5.png)
 
 
