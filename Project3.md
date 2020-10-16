@@ -6,7 +6,9 @@ The graph above shows the country of Costa Rica. Costa Rica is divided into 7 pr
 Data for this graph was obtained from shape files on the GADM website. 
 
 # Project 3 Stretch Goal 2
+![plot2](https://user-images.githubusercontent.com/60228369/96278904-11a4d380-0fa4-11eb-90d8-89b1900ebf7a.png)
+![plot3](https://user-images.githubusercontent.com/60228369/96278907-11a4d380-0fa4-11eb-805c-dcdcf5fa87e5.png)
 
 
 
-The graphs above show San José, the most densley populated province in Costa Rica, which is also the capital. I have also included Guanacaste, the least densley populated province in Costa Rica which has 
+The graphs above show San José, the most densley populated province in Costa Rica, which is also the capital. San José is located in central Costa Rica and has 20 cantons. I have also included Guanacaste, the least densley populated province province in Costa Rica which is located in northern Costa Rica and has 10 cantons.
