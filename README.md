@@ -19,10 +19,10 @@ Hi guys! I'm DJ, I'm a sophmore at W&M studying finance and economics. I took th
 
 7. [Project 2 Part 1](https://dj-olson.github.io/Data100/Lab2b) (Spet. 23)
 
-7. [Data Reflection 2](https://dj-olson.github.io/Data100/Data_reflection_2) (Spet. Oct. 1)
+8. [Data Reflection 2](https://dj-olson.github.io/Data100/Data_reflection_2) (Spet. Oct. 1)
 
-8. [Project 2 Part 2](https://dj-olson.github.io/Data100/Project2_Part2) (Oct. 2)
+9. [Project 2 Part 2](https://dj-olson.github.io/Data100/Project2_Part2) (Oct. 2)
 
-9. [Project 2 Part 3](https://dj-olson.github.io/Data100/Project2_Part3) (Oct. 5)
+10. [Project 2 Part 3](https://dj-olson.github.io/Data100/Project2_Part3) (Oct. 5)
 
-10. [Data Reflection 3](https://dj-olson.github.io/Data100/Data_reflection_3) (Spet. Oct. 16)
+11. [Data Reflection 3](https://dj-olson.github.io/Data100/Data_reflection_3) (Spet. Oct. 16)
