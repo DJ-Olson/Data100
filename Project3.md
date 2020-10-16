@@ -1,3 +1,5 @@
+Note to reader: I tried to make most of the images fairly high resoultion so zooming in on maps is encouraged!
+
 ## Project 3 Team Goal Deliverable:
 ![plot](https://user-images.githubusercontent.com/60228369/96278366-6562ed00-0fa3-11eb-8336-75426a31b7d2.png)
 
