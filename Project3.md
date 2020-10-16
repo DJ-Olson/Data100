@@ -9,4 +9,4 @@ Data for this graph was obtained from shape files on the GADM website.
 
 
 
-The graphs above show San José, the most densley populated province in Costa Rica, which is also the capital. 
+The graphs above show San José, the most densley populated province in Costa Rica, which is also the capital. I have also included Guanacaste, the least densley populated province in Costa Rica which has 
