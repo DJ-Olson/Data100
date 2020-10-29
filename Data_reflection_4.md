@@ -1,4 +1,4 @@
-#Data Science in Fantasy Football 
+# Data Science in Fantasy Football 
 
 Every year millions of Americans try to emulate the feeling of being an NFL coach by assembling their own fantasy football rosters. However, not only is it a fun way to stay in touch with your friends through a little friendly competition, but due to the popularity of sports betting, the fantasy football market is estimated today at $18.6 billion dollars. With so much money on the line you can see why people are willing to use data science to gain any advantage they can when drafting their team and setting their lineup.
   
@@ -10,7 +10,9 @@ The fantasy football app that many players use today provides rankings for each 
 
 Additionally Yun also took into account matchups. Just because one player is better than another at their position does not mean you should start them. First you need to think about how each player will match up against the team they’re playing.To do this Yun built into his model a function to multiply a team’s offensive performance by their opponent’s defensive performance. In Yun’s words, “if a team is scoring a lot of points, yards, touchdowns or goals, I like a match-up where their opponent is also giving up a lot of the same. So creating a pair-wise variable by multiplying the two features was the operation I ran with for now to ensure such scenarios were highlighted by the numbers” (Yun, 2018).
 
-See script below:
+### See script below:
+![Screen Shot 2020-10-29 at 6 47 32 PM](https://user-images.githubusercontent.com/60228369/97641165-a681e500-1a18-11eb-98fc-a4b64bb46ccf.png)
+
 
 
 Within Yun’s script are many more variables that are also taken into account such as how teams fare against each other historically, how players have played previously in certain weather conditions, and so on. But, from the examples provided I hope you can see just how in depth his model goes. The goal of this reflection is not to provide a complete guide to how Yun’s script works, but instead to highlight just how widely data science can be applied. When fantasy football started people often drafted their favorite players on their favorite teams and used it as a way to give Sunday football even more meaning. However, now methods such as Yun’s have been developed to make what used to be a game that had a lot to do with luck, scientific. If you are willing to collect the data and put in the time to analyze it, there really is no boundary to what you can achieve. So, if you find yourself wanting to dominate your friends next year in a fantasy football league, consider data science as the catalyst.
