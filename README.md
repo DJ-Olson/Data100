@@ -28,3 +28,6 @@ Hi guys! I'm DJ, I'm a sophmore at W&M studying finance and economics. I took th
 11. [Data Reflection 3](https://dj-olson.github.io/Data100/Data_reflection_3) ( Oct. 16)
 
 12. [Project 3 All Parts](https://dj-olson.github.io/Data100/Project3) (Oct. 16)
+
+13. [Data Reflection 4](https://dj-olson.github.io/Data100/Data_reflection_4) (Sept. Oct. 29)
+
