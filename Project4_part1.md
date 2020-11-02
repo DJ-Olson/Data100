@@ -13,3 +13,9 @@
 
 
 ## Individual Stretch Goal 2: This third plot tries to show the previous two plots on top of eachother so that both the cantons and counties are visible
+
+
+![Screen Shot 2020-11-02 at 1 11 29 AM](https://user-images.githubusercontent.com/60228369/97835544-69cc1d00-1ca8-11eb-852f-9bafa3ba6faf.png)
+
+
+### Individual Stretch Goal 3 will be shown in part 2 of project 4 within the video.
