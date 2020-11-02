@@ -10,3 +10,7 @@
 
 
 ![Screen Shot 2020-11-02 at 1 18 18 AM](https://user-images.githubusercontent.com/60228369/97835990-579eae80-1ca9-11eb-8671-52fd38e16ecc.png)
+
+## Below is the link to the video for Individual Stretch Goal 2. (The video shows a three dimension plot of all log of density population values by district).
+
+<div style="height: 0; padding-bottom: calc(100.00% + 35px); position:relative; width: 100%;"><iframe allow="autoplay; gyroscope;" allowfullscreen height="100%" referrerpolicy="strict-origin" src="https://www.kapwing.com/e/5f9fa734790e6900a3fce1c0" style="border:0; height:100%; left:0; overflow:hidden; position:absolute; top:0; width:100%" title="Embedded content made with Kapwing" width="100%"></iframe></div>
