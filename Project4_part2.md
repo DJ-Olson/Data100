@@ -13,4 +13,4 @@
 
 ## Below is the link to the video for Individual Stretch Goal 2. (The video shows a three dimension plot of all log of density population values by district).
 
-https://www.kapwing.com/e/5f9fa734790e6900a3fce1c0
+[Costa Rica 3D Model](https://www.kapwing.com/e/5f9fa734790e6900a3fce1c0)
