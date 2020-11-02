@@ -7,3 +7,6 @@
 
 
 ## Individual Stretch Goal 1: The bar graph below shows the same 7 counties presented in the bar graph above, but the cantons' densities within each county are also shown
+
+
+![Screen Shot 2020-11-02 at 1 18 18 AM](https://user-images.githubusercontent.com/60228369/97835990-579eae80-1ca9-11eb-8671-52fd38e16ecc.png)
