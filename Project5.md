@@ -1,6 +1,6 @@
 # Project 5
 
-## This first histogram shows the population on the x-axis and population density on the y-axis. 
+## This first histogram shows the population of Costa Rica (which has been broken down by cantons) on the x-axis and population density on the y-axis. 
 
 ![Screen Shot 2020-11-11 at 11 10 01 AM](https://user-images.githubusercontent.com/60228369/98878683-8fe48080-2451-11eb-9cf9-b1d1548bb33c.png)
 
